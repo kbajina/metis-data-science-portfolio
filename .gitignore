@@ -1,4 +1,11 @@
 # DO NOT TRACK THE CONTENTS OF THE FOLLOWING FOLDERS:
-customer-reviews-enhancement/data_files
-mortgage-preapproval/data_files
-retail-sales-forecasting/data_files
+customer-reviews-enhancement/backup_files/data_files
+customer-reviews-enhancement/backup_files/images
+customer-reviews-enhancement/backup_files/pickled_files
+
+mortgage-preapproval/backup_files/data_files
+mortgage-preapproval/backup_files/images
+
+retail-sales-forecasting/backup_files/data_files
+retail-sales-forecasting/backup_files/images
+retail-sales-forecasting/backup_files/pickled_files
