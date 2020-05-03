@@ -5,7 +5,7 @@ This repository highlights major projects I completed while attending the Metis 
 
 ## Project Overview:
 
-#### 1) Online Mortgage Pre-Approval: 
+### 1) Online Mortgage Pre-Approval: 
 **Objective:**  
 Identify mortgage applicants at risk of default using classification algorithms.  
 
@@ -13,7 +13,7 @@ Identify mortgage applicants at risk of default using classification algorithms.
 To develop a prototype for an online mortgage pre-approval process.  
 For the purposes of this project, a Tableau interactive dashboard was created to mimic a web application.
 
-#### 2) Amazon Customer Review Enhancement:
+### 2) Amazon Customer Review Enhancement:
 **Objective:**  
 Improve customer product research on Amazon platform by using NLP to predict the “helpfulness” of an Amazon review, and Topic Modelling to provide reviewers with suggestions to improve the quality of reviews.
 
@@ -22,7 +22,7 @@ The greatest value an online sales platform, such as Amazon, can offer customers
 
 `See powerpoint deck for business use-case and recommendations for roll-out.`
 
-#### 3) Retail Sales Forecasting:
+### 3) Retail Sales Forecasting:
 **Objective:**  
 Clustered Walmart retail sales branches to perform weekly sales forecasting using Time Series.  
 
