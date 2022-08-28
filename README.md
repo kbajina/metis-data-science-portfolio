@@ -3,7 +3,7 @@
 ### Overview:
 This repository highlights major projects I completed while attending the Metis Data Science program in San Francisco.
 
-## Portfolio Projects Overview:
+## Portfolio Projects Summary:
 
 ### [1) Online Mortgage Pre-Approval:](https://github.com/kbajina/metis-data-science-portfolio/tree/master/mortgage-preapproval)
 **Objective:**  
